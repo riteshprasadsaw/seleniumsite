@@ -1,2 +1,2 @@
-## Simple Payments With Stripe
+Selenium Blog
 This is the full code for the  seleniumsite" 
